@@ -1,6 +1,6 @@
 # Chat GPT in JavaScript
 
-## Originally posted here on Dec 25, 2022:
+Originally posted here on Dec 25, 2022:
 https://www.codeproject.com/Articles/5350454/Chat-GPT-in-JavaScript
 
 Web app to talk to Chat GPT
