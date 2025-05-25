@@ -1,4 +1,4 @@
-Chat GPT in JavaScript
+# Chat GPT in JavaScript
 
 ## Originally posted here on Dec 25, 2022:
 https://www.codeproject.com/Articles/5350454/Chat-GPT-in-JavaScript
